@@ -1,10 +1,10 @@
 /* Selecteur Balises */
 h1 {
-	color : red;
+	color : red; /* propriété : valeur*/;
 }
 
 /* Selecteur de Classes */
 .classe1 {
 
-	color : blue;
+	color : green;
 }
